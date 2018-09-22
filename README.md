@@ -21,7 +21,7 @@ See module for details.
 
 ## Integration tests
 
-E2E integration test setup with docker to be able to check the plugin against multiple SonarQube versions.
+E2E integration test setup with docker to be able to check the plugin against multiple  SonarQube versions.
 
 ## License
 
